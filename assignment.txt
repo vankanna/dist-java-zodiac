@@ -1,0 +1,7 @@
+Fork and clone the repository at https://github.com/oroborous/dist-java-zodiac (Links to an external site.)
+
+Two SQL files have been included in the src/main/resources folder. Using the schema provided, modify the application so that it reads Fortunes and Months from the database instead of from JSON files.
+
+Modify the entity classes to include persistence annotations. Create CrudRepository classes that the Service classes will use for database operations.
+
+Submit the URL of your GitHub repository.
